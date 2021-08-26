@@ -1,0 +1,12 @@
+[submodule "Front"]
+	path = Front
+	url = https://github.com/prefeiturasp/SME-Prova-Serap-Front.git
+[submodule "API"]
+	path = API
+	url = https://github.com/prefeiturasp/SME-Prova-Serap-API.git
+[submodule "Worker"]
+	path = Worker
+	url = https://github.com/prefeiturasp/SME-Prova-Serap-Worker.git
+[submodule "AppWorker"]
+	path = AppWorker
+	url = https://github.com/prefeiturasp/SME-Prova-Serap-AppWorker.git
